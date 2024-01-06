@@ -23,9 +23,9 @@
 
 ## **Cleaning and Analyzing using Power Query**
 
-* Open Excel and connect to your employee attendance data
+* Import data into power query from Excel.
 * Use Power Query to clean and transform the data
-* Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets
+* Combine all three month data into one,but the problem is that all three month of attendance sheet has diffrent column for create tempelate as a function for anyone month data and do for another month when new month data comes in.
 * Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
 * Create a parameter to select the desired data based on a specific condition
 * Encapsulate all steps into a function to be reused for future sheets and data
