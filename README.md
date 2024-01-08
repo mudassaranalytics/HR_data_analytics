@@ -24,11 +24,10 @@
 ## **Cleaning and Analyzing using Power Query**
 
 * Import data into power query from Excel.
-* Use Power Query to clean and transform the data
-* Combine all three month data into one,but the problem is that all three month of attendance sheet has diffrent column for create tempelate as a function for anyone month data and do for another month when new month data comes in.
 * Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
+* Combine all three month data into one,but the problem is that all three month of attendance sheet has different column for that create tempelate as a function for anyone month data and do for another month when new month data comes in.
 * Create a parameter to select the desired data based on a specific condition
-* Encapsulate all steps into a function to be reused for future sheets and data
+* Invoke custom function when new month data comes in.
 * Load and Apply the cleaned data into Power BI
 
 
